@@ -102,7 +102,10 @@ output/
 ## 🖼 Screenshot
 
 ### Tampilan Scan
-![Screenshot](screenshot.png)
+![Screenshot](ZeroCeker.png)
+
+### Tampilan Hasil
+![Screenshot](ZeroCeker2.png)
 
 ---
 
@@ -111,7 +114,7 @@ Format input di `list.txt`:
 ```
 http://example.com/wp-login.php:user:pass
 example.com/administrator:user:pass
-ojs.example.ac.id/index.php/index/install/install:admin:admin
+ojs.example.com/index.php/index/install/install:admin:admin
 ```
 
 Output akan otomatis memisahkan sesuai kategori.
